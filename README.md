@@ -1,0 +1,1 @@
+A diabetes prediction project created using flask and python. Based on the inputs from user the three models Random forest, logistic regression and support vector machine predicts whether the patient is diabetic(1)or not(0).
